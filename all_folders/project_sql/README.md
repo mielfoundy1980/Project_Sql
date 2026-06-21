@@ -11,7 +11,7 @@ The project aims to answer the following questions:
 4. What are the top skills based on salary?
 5. What are the most optimal skill to learn (high demand & high-paying skill)?
 
-SQL queries? Check them out here: [project_sql folder](all_folders/project_sql/)
+SQL queries? Check them out here: [project_sql folder](/all_folders/project_sql/)
 
 ## Tools I used
 The tools I used are:
@@ -63,7 +63,7 @@ LIMIT 10;
 
 The top remote Data Analyst jobs pay $184K-$336K+, with director/principal titles dominating. The $650K role at Mantys is an outlier, likely a specialized position. Meta and AT&T offer the highest salaries among recognizable brands, while SmartAsset is a consistent top employer.
 
-![Top Paying Roles](all_folders/project_sql/assets/top_paying_roles.png)
+![Top Paying Roles](/all_folders/project_sql/assets/top_paying_roles.png)
 
 ### 2. Top Paying Skills for Data Analyst jobs
 
@@ -112,7 +112,7 @@ ORDER BY tpj.salary_year_avg DESC;
 - Most common skill: **SQL (8/10 jobs)**
 - Top 3 skill categories: **programming (33.3%)**, **analyst tools (19.7%)** & **cloud (15.2%)**
 
-![Top Skill Categories](all_folders/project_sql/assets/skill_categories_distribution.png)
+![Top Skill Categories](/all_folders/project_sql/assets/skill_categories_distribution.png)
 
 ### 3. Most in-demand Skills for Data Analyst jobs
 
@@ -138,7 +138,7 @@ The data reveals a clear hierarchy: SQL dominates the Data Analyst skill landsca
 
 To maximize job opportunities, prioritize SQL first, then add Python and one visualization tool.
 
-![Most In-Demand Skills](all_folders/project_sql/assets/most_in_demand_skills.png)
+![Most In-Demand Skills](/all_folders/project_sql/assets/most_in_demand_skills.png)
 
 ### 4. Top Skills based on Salary
 
@@ -173,7 +173,7 @@ LIMIT 25;
 
 This signals a market shift where data professionals are expected to handle large-scale data processing and work within modern DevOps pipelines. To maximize earning potential, focus on Big Data technologies, Python's data ecosystem, and AI/ML automation tools.
 
-![Top Skills based on Salary](all_folders/project_sql/assets/top_skills_salary.png)
+![Top Skills based on Salary](/all_folders/project_sql/assets/top_skills_salary.png)
 
 ### 5. Optimal Skills (High Demand & High Paying Jobs)
 To target skills that offer job security (high demand) and financial benefits (high salaries), offering startegic insights for career development in data analysis.
@@ -199,8 +199,8 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-![Optimal Skills](all_folders/project_sql/assets/optimal_skills_figures.png)
-![Optimal Skills scatter plot](all_folders/project_sql/assets/optimal_skills_scatterplot.png)
+![Optimal Skills](/all_folders/project_sql/assets/optimal_skills_figures.png)
+![Optimal Skills scatter plot](/all_folders/project_sql/assets/optimal_skills_scatterplot.png)
 
 **Summary**
 
