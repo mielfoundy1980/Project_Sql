@@ -223,4 +223,3 @@ This project was an excellent opportunity to apply my SQL skills and expand my t
 - **Version Control**: Using Git Bash to connect VS Code with my GitHub account, and pushing files and query scripts.
 - **Advanced Querying**: Testing and improving my SQL proficiency by writing queries that leverage subqueries and Common Table Expressions (CTEs).
 - **AI-Assisted Problem Solving**: Leveraging AI tools to debug complex queries, optimize performance, and extract meaningful insights from the data, which enhanced both my efficiency and understanding.
-
