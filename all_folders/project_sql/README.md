@@ -223,3 +223,11 @@ This project was an excellent opportunity to apply my SQL skills and expand my t
 - **Version Control**: Using Git Bash to connect VS Code with my GitHub account, and pushing files and query scripts.
 - **Advanced Querying**: Testing and improving my SQL proficiency by writing queries that leverage subqueries and Common Table Expressions (CTEs).
 - **AI-Assisted Problem Solving**: Leveraging AI tools to debug complex queries, optimize performance, and extract meaningful insights from the data, which enhanced both my efficiency and understanding.
+
+
+![Top Paying Roles](all_folders/project_sql/assets/Top_paying_roles.png)
+![Top Skill Categories](all_folders/project_sql/assets/Top_skill_categories.png)
+![Most In-Demand Skills](all_folders/project_sql/assets/Most_in-demand_skills.png)
+![Top Skills based on Salary](all_folders/project_sql/assets/Top_skills_based_on_salary.png)
+![Optimal Skills](all_folders\project_sql\assets\optimal_skills_figures.png)
+![Optimal Skills Scatter Plot](all_folders/project_sql/assets/Optimal_skills_scatter_plot.png)
